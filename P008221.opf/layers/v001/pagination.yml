@@ -3,79 +3,68 @@ annotation_type: pagination
 revision: '00001'
 annotations:
   a3df2ac488914978906b17a64afa6a11:
-    page_index: 1a
-    page_info: null
-    reference: I00KG028660001
+    imgnum: 1
+    reference: I00KG028660001.tif
     span:
       start: 0
       end: 921
   62acd7d2e9554e4c8164b4cd0b35ef6a:
-    page_index: 2a
-    page_info: null
-    reference: I00KG028660003
+    imgnum: 3
+    reference: I00KG028660003.tif
     span:
       start: 926
       end: 1394
   6a33d3be7a0a4061b0fa7bcb6c05f101:
-    page_index: 2b
-    page_info: null
-    reference: I00KG028660004
+    imgnum: 4
+    reference: I00KG028660004.tif
     span:
       start: 1399
       end: 2208
   ab25c986343f424495b679629cf0cdc4:
-    page_index: 3a
-    page_info: null
-    reference: I00KG028660005
+    imgnum: 5
+    reference: I00KG028660005.tif
     span:
       start: 2213
       end: 3304
   1e0f99c392c241b0b0df9af5c318ffed:
-    page_index: 3b
-    page_info: null
-    reference: I00KG028660006
+    imgnum: 6
+    reference: I00KG028660006.tif
     span:
       start: 3309
       end: 4363
   19c8aee22f9a444db83c92728f39a5a8:
-    page_index: 4a
-    page_info: null
-    reference: I00KG028660007
+    imgnum: 7
+    reference: I00KG028660007.tif
     span:
       start: 4368
       end: 4938
   17f4f9c659434766bf83e921b8bbe9a8:
-    page_index: 4b
-    page_info: null
-    reference: I00KG028660008
+    imgnum: 8
+    reference: I00KG028660008.tif
     span:
       start: 4943
       end: 5372
   7677ee67a57d463eaad19e313d0ff900:
-    page_index: 5a
-    page_info: null
-    reference: I00KG028660009
+    imgnum: 9
+    reference: I00KG028660009.tif
     span:
       start: 5377
       end: 6357
   67c88ca22d454d1ea061f00928093127:
-    page_index: 5b
-    page_info: null
-    reference: I00KG028660010
+    imgnum: 10
+    reference: I00KG028660010.tif
     span:
       start: 6362
       end: 7363
   b21e6c9cc088441ebb696e106e5b89be:
-    page_index: 6a
-    page_info: null
-    reference: I00KG028660011
+    imgnum: 11
+    reference: I00KG028660011.tif
     span:
       start: 7368
       end: 8493
   c5b8d3be1ae9414e8d7108f49fa8525e:
-    page_index: 6b
-    page_info: null
-    reference: I00KG028660012
+    imgnum: 12
+    reference: I00KG028660012.tif
     span:
       start: 8498
       end: 8534
